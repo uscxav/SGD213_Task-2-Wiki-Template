@@ -7,18 +7,16 @@
 [//]: # (How will you meet the client's brief, their expectations, and their requirements.)
 
 ### Project Name
-Donuts, Daggers & Dragons and other things and things bahhhhh
+(untitled Stealth Game)
 
 ### Description
-[//]: # (This is the elevator pitch, sell the idea)
-Players play as humanoid donuts trained in the art of ninjitsu. 
-Players cooperate in teams of 2 to overcome the other teams in an arena-style, top-down, dagger-throwing, action-brawler. 
-After gaining victory, the winning team is given the opportunity to unlock epic loot by facing the Dragon...
+Stealth Game
 
 ### Begin Date
+9/04/2025
 
 ### End Date
-
+01/06/2025
 ### Justification
 Read the design justification [here](project_justification.md).
 
@@ -28,25 +26,17 @@ Read the design justification [here](project_justification.md).
 [//]: # (This section is about managing expectations; list out all of the qualities that will be in the final product)
 
 ### Requirements
-[//]: # (What are the requirements of the finished project?)
-* Needs the product in 5 weeks.
-* Gameplay should be fast-paced
-* Rounds should be short
-* Should be quick to restart
-* Feedback is a major point
-* People should be drawn to it by it's appearance
-    * Needs a catchy name
+* A base working Player Controller that can move and crouch
+* sentries that move back and forth between 2 points (that can be changed by Ian)
+* Cameras that are stationary and scan an area
+* Interaction with Doors and Boxes
+* scanning needs to be blocked by walls/crates so players can hide from enemies/cameras
 
 ### Expectations
-[//]: # (What are the client's expectations?)
 * Project delivered on time
 * Weekly updates on progress
 * Communication with the client when design issues encountered
-* Quality transparent project management (add the client)
-* Does **not** require audio
-* Does **not** require high quality art
-    * Can use basic geometry
-    * Should still look nice using colour palettes
+* Does **not** need to look pretty or require high quality art
 
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
@@ -73,10 +63,9 @@ Work will be completed to fit the provided Statement of Works, any work outside 
 
 ## Signatures
 [//]: # (If dealing in person, agreements should be signed so that additional work can be billed)
-| Client Name | Date | Signature |
-| --- | --- | --- |
-| John Doe | 12-34-5678 | ________ |
+| Client | Date | Signature |
+| Ian Jones | 09/04/2025 | IJ |
+
 
 | Team Rep. | Date | Signature |
-| --- | --- | --- |
-| Jane Doe | 12-34-5678 | ________ |
+| Ned Taneer | 09/04/2025 | NED |

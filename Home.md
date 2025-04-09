@@ -5,8 +5,8 @@ Welcome! If you don't know what you are doing here, jump over to the [Task 2](Ta
 Delete out all of the useless stuff in your Wiki whenever you like (eg. the Old Structure stuff below). Don't delete important stuff though!
 
 ## Introduction
-This wiki discusses the client requirements for the <Stealth Game (untitled for now)> project.
-This project is being completed by <The wicked Crew> for <Ian>.
+This wiki discusses the client requirements for the Stealth Game (untitled for now) project.
+This project is being completed by The wicked Crew for <Ian>.
 The handover date for the project is the 1st of June 2025.
 
 ## Table of Contents

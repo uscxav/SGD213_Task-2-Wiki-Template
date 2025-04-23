@@ -46,15 +46,12 @@ Project delivered on time
 
 ## Constraints
 
-### Constraints
 [//]: # (What are the constraints of this project)
 * We have a tight timeframe, so we will need to make fast decisions, which may be less than perfect
+* Lack of Experience in the Unity Engine within the group may lead to constraints
 
 ---
 
 ## Justification
-We really like the mention of "silly games catch people's eyes". So we took your suggestion of dragons and built on it with alliteration as a starting point. We went through many ideas, but finally came up with a title called "Donuts, Daggers & Dragons.
-
-The name along was enough to get conversation happening, and we soon found ourselves thinking of countless, comical and enjoyable scenarios stemming from the title.
 
 etc. Explain your design decisions in regards to the client's requirements.

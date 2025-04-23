@@ -49,6 +49,7 @@ Project delivered on time
 [//]: # (What are the constraints of this project)
 * We have a tight timeframe, so we will need to make fast decisions, which may be less than perfect
 * Lack of Experience in the Unity Engine within the group may lead to constraints
+* The Team is working with a brand new genre which may lead to comfusion
 
 ---
 

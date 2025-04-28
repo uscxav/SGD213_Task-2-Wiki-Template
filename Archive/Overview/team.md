@@ -8,4 +8,4 @@ Itch.io: https://kale-grabish.itch.io/
 Itch.io:
 # Xaviera Allingham
 ## Artist, Programmer, 4th Year Uni Student
-Itch.io:
+Itch.io: https://itch.io/profile/lunarescapism

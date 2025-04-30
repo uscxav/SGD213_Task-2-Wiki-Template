@@ -8,5 +8,10 @@ You should also justify your thinking.
 
 Hot tip: use our text book for guidance.
 
-## Dummy Heading
-Fill this with information.
+
+
+## Interfaces
+
+## Inheritance
+
+## Components

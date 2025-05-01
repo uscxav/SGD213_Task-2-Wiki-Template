@@ -1,7 +1,7 @@
 # Justification
 
 ## Overview
-Stealth game that the client Ian will be able to add assets to and continue working on. game will be a relatively basic prototype with a basic player controller and setries/cameras that try and hunt the player down
+Stealth game that the client Ian will be able to add assets to and continue working on. Game will be a relatively basic prototype with a basic player controller and sentries/cameras that try and hunt the player down.
 ### Brief
 Hello, Ian here. I need a base stealth game made so I can continue to work on creating assets for it. It doesn’t need to be pretty. I need a base working player controller that can walk and crouch.
 I also need sentries that patrol back and forth between two points (That can be changed by myself). Cameras that are stationary and scan an area. 
@@ -16,10 +16,10 @@ Interaction with doors and boxes. Lastly, I need these scanning abilities to be 
 
 ### Requirements
 * A base working Player Controller that can move and crouch
- * sentries that move back and forth between 2 points (that can be changed by Ian)
+ * Sentries that move back and forth between 2 points (that can be changed by Ian)
  * Cameras that are stationary and scan an area
  * Interaction with Doors and Boxes
- * scanning needs to be blocked by walls/crates so players can hide from enemies/cameras
+ * Scanning needs to be blocked by walls/crates so players can hide from enemies/cameras
 
 ### Expectations
 Project delivered on time
@@ -39,15 +39,15 @@ Project delivered on time
   
 
 ### Risk Management
-* weekly team reports for scoping out the project and keeping the team on track
-* the stealth genre is quite new to the team so managing that will be important
+* Weekly team reports for scoping out the project and keeping the team on track
+* The stealth genre is quite new to the team so managing that will be important
 
 ---
 
 ## Constraints
 
 [//]: # (What are the constraints of this project)
-* We have a tight timeframe, so we will need to make fast decisions, which may be less than perfect
+* We have a tight time frame, so we will need to make fast decisions, which may be less than perfect
 * Lack of Experience in the Unity Engine within the group may lead to constraints
 * The Team is working with a brand new genre which may lead to comfusion
 

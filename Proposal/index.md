@@ -27,10 +27,10 @@ Read the design justification [here](project_justification.md).
 
 ### Requirements
 * A base working Player Controller that can move and crouch
-* sentries that move back and forth between 2 points (that can be changed by Ian)
+* Sentries that move back and forth between two points (that can be changed by Ian)
 * Cameras that are stationary and scan an area
 * Interaction with Doors and Boxes
-* scanning needs to be blocked by walls/crates so players can hide from enemies/cameras
+* Scanning needs to be blocked by walls/crates so players can hide from enemies/cameras
 
 ### Expectations
 * Project delivered on time

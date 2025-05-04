@@ -1,6 +1,6 @@
 # Constraints 
 
-## This Page will Expand on the Contraints Outlined in Project Justification
+## This Page will Expand on the Constraints Outlined in Project Justification
 1.  The team has a tight time frame for this project. Due to this, certain elements of the prototype may not be as high quality as we intended. A way we intend to circumvent this constraint is by utilising a sprint-based development structure - every couple of weeks, we dedicate ourselves to refining a small selection of systems with the intent of having a finished prototype of this system by the sprint deadline.
 
 2. Overall, the team's experience in the Unity Engine is lower than that of other equivalent engines, which can lead to an imperfect product.

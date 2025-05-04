@@ -1,6 +1,5 @@
 # Client
 
-## This page will go over everything we have learned from the client (Ian) and information he has given us regarding his wants for the project
 
 
 ## Intentions and Brief
@@ -53,3 +52,33 @@ Kale Grabish, The Wicked Crew
     I'm happy for you to make a premise for the game! Although, it's not needed
 5.
     I'd assume this to be in a darker setting given the stealth nature. Although, I'm happy for you to use any assets needed. It only really needs grey boxes
+
+### Second Email
+Hey Ian,
+We have a couple more questions for you in regard to this project.
+
+1. For the player, we could have a health bar that goes down when sentries catch the player. Or the player could have a sort of insta-death, where the player resets to a checkpoint or beginning of a level once the sentries catch the player. Which would you prefer?
+
+2. Would you like the cameras to also damage/reset the player when they detect movement, or summon a sentry to where the player was detected?
+
+3. Would you like instructions on screen telling the player for their goal on each level/quest?
+
+Please reach out if you have any questions or concerns.
+Thank you,
+Xaviera Allingham, The Wicked Crew
+
+### Third Email
+ Greetings Ian...
+
+While you haven't replied to our previous email yet, I just wanted to provide some additional questions to help better guide how we'll begin our development.
+
+1. How would you like the levels of the game to be played? Would you prefer if the game was comprised of small, arcade-style levels with a singular goal, or if it was a larger map that the player ventured through, perhaps encouraging backtracking, key-finding and such?
+
+2. Would you like the UI to be displayed on the screen using a canvas system, or would you prefer a more diegetic implementation?
+
+3. Do you have a rough idea of who or what you want the enemies in the game to be? (Human, Robot, Alien, Eldritch Horror, etc)
+
+
+It would be great to hear back from you soon.
+Gungle,
+Ned Tanner, The Wicked Crew

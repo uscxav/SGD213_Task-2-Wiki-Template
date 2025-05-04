@@ -55,4 +55,6 @@ Project delivered on time
 
 ## Justification
 
-etc. Explain your design decisions in regards to the client's requirements.
+* Systems need to be comprehensively commented and easy to modify for client
+* Though tempting, asset development should not be undertaken, as this is the client's responsibility
+* Utilise primarily interfaces for scripting, most convenient for team and client

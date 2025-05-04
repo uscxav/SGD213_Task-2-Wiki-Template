@@ -11,6 +11,8 @@ Interfaces are used by creating an Interface that can be used by other scripts w
 
 ## Inheritance
 
-Inheritance uses a 'parent' class that its 'child' classes inherit functionality from. This is used to cut down on repeat code, so a new child class would only have to contain any new code that differs from the parent class. Similar to Interfaces, this can be used to create repeat mechanics that are used by many different parts of the game.
+Inheritance uses a 'parent' class that its 'child' classes inherit functionality from. This is used to cut down on repeat code, so a new child class would only have to contain any new code that differs from the parent class. Similar to Interfaces, this can be used to create repeat mechanics that are used by many different parts of the game. This could work for this project, but unlike Interfaces, a script can only inherit one parent class at a time. This could limit the flexibility of the code.
 
 ## Components
+
+Using component architecture involves splitting up scripts to separate functions. This allows the developers to only work and understand on specific parts of the code, and helps reduce errors. Components are useful for games that involve repetitive objects, characters etc. Components could be useful in parts of this project, but is not the best fit for the primary architecture of this project. We will keep Components in mind and implement it if improves the structure of this project. 

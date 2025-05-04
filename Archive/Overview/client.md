@@ -16,7 +16,7 @@ The Main Details initially gathered from Ians brief were:
 4. Boxes/walls that can be hidden behind
 
 ## Emails
-Over the course of making this project the team must send Ian three emails. this is the first Email we sent:
+### First Email
 Hi Ian,
 
 We are The Wicked Crew, A small local Group of passionate game developers who are excited to bring your project to life. We love the idea of a stealth game and are 
@@ -42,4 +42,14 @@ Those are our Five biggest Questions so far but if we have anymore burning insid
 Kind Regards,
 Kale Grabish, The Wicked Crew
 
-*Edit again once response recieved*
+### Response
+1. 
+    It's not needed for this project. Although, if there's time I'd be happy to see some feature added.
+2.
+    Visual cues would work well here to indicate that the player was caught.
+3.
+    Some alert state would work fine here. Although, given the time limits having enemies go from patrolling to "found player" would work.
+4.
+    I'm happy for you to make a premise for the game! Although, it's not needed
+5.
+    I'd assume this to be in a darker setting given the stealth nature. Although, I'm happy for you to use any assets needed. It only really needs grey boxes
